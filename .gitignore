@@ -1,0 +1,14 @@
+# Python
+Backend/venv/
+Backend/.env
+**/__pycache__/
+*.pyc
+
+# Node / React
+vite-project/node_modules/
+vite-project/dist/
+.DS_Store
+
+# Local Env
+.env
+.env.local
